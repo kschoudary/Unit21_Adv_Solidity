@@ -6,5 +6,5 @@ Date: 9/20/2020
 Detailed Steps:
 Step-1: Launch Ganache and check the status of account as shown below:
 ![Tab:Accounts](Screenshots/Ganache_Accounts_PIC-01_showing_initial_Balance.png)
-![Tab:Blocks](Screenshots/Ganache Blocks PIC-01 showing initial status.png)
+![Tab:Blocks](Screenshots/Ganache_Blocks_PIC-01_showing_initial_status.png)
 Steps-2: 
