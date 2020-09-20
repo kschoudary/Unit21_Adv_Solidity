@@ -6,14 +6,18 @@ Date: 9/20/2020
 ## Detailed Steps:
 ### Launch Ganache
 Step-1: Launch Ganache and check the status of account as shown below:
+a) Check the Tab: Accounts
 ![Tab:Accounts](Screenshots/Ganache_Accounts_PIC-01_showing_initial_Balance.png)
+b) Check the Tab: Blocks
 ![Tab:Blocks](Screenshots/Ganache_Blocks_PIC-01_showing_initial_status.png)
 
 ### Creating and Designing the project
 Step-2: Launch Chrome and open Remix, check the Metamask and select the Localhost 8545 and login to the account.
 ![Check balance in Matamask](Screenshots/Remix_Ethereum_showing_Metamask_PIC-01_showing_initial_AC_Balance.png)
-Step-3: Complete coding in a) PupperCoin.sol and b) Crowdsale.sol
+Step-3: Complete coding in a) PupperCoin.sol and b) Crowdsale.sol 
+
 Step-4: Complile the above 2 programs
+
 Step-5: Deploy PupperCoin
 ![Deployment status](Screenshots/PupperCoin_PIC-02_showing_Deployed_Successfully_for_PUP.png)
 ![Check Variables](Screenshots/PupperCoin_PIC-03_showing_name_and_symbol PUP.png)
