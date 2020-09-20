@@ -4,5 +4,7 @@ Developer: Subbaiah Choudary Kotha (KS)
 Date: 9/20/2020
 
 Detailed Steps:
-Step-1: Launch Ganache and check initial balance in the [tab: Accounts] (../\Screenshots/Ganache Accounts PIC-01 showing initial Balance.png)
-Steps-2: Check Blocks in the Ganache by clicking on the [tab: Blocks] (../\Screenshots/Ganache Blocks PIC-01 showing initial status.png)
+Step-1: Launch Ganache and check the status of account as shown below:
+![Tab:Accounts](Screenshots/Ganache Accounts PIC-01 showing initial Balance.png)
+![Tab:Blocks](Screenshots/Ganache Blocks PIC-01 showing initial status.png)
+Steps-2: 
