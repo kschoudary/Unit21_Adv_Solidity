@@ -24,10 +24,12 @@ Step-4: Complile the above 2 programs
 Step-5: Deploy PupperCoin
 a) Check Deployment  status
 ![Deployment status](Screenshots/PupperCoin_PIC-02_showing_Deployed_Successfully_for_PUP.png)
+
 b) Check Variables
-![Check Variables](Screenshots/PupperCoin_PIC-03_showing_name_and_symbol PUP.png)
+[Check Variable Values](Screenshots/PupperCoin_PIC-03_showing_name_and_symbol_PUP.png)
+
 c) Check Ganache
-![Check Ganache]{Screenshots/Ganache_Blocks_PIC-03_showing_Successful_Contract_Creation_for_PUP.png}
+![Check Ganache](Screenshots/Ganache_Blocks_PIC-03_showing_Successful_Contract_Creation_for_PUP.png)
 
 Step-6: Deploy PupperCoinCrowdsaleDeployer
 ![Deployment status](Screenshos/PupperCoinSaleDeployer_PIC-01_showing_Deployed_Successfully.png)
